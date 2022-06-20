@@ -1,0 +1,28 @@
+{
+  "name": "countries",
+  "version": "1.0.0",
+  "description": "huiswerk plus les opdracht js 5",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramona-dg/homework-countries.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramona-dg/homework-countries/issues"
+  },
+  "homepage": "https://github.com/ramona-dg/homework-countries#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "parcel": "^2.6.1",
+    "process": "^0.11.10"
+  }
+}
